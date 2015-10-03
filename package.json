@@ -1,6 +1,6 @@
 {
   "name": "nodecg-stubs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of stubbed libs that bundles can use to aid in testing.",
   "main": "index.js",
   "scripts": {
