@@ -1,0 +1,31 @@
+{
+  "name": "nodecg-stubs",
+  "version": "1.0.0",
+  "description": "A set of stubbed libs that bundles can use to aid in testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lange@github.com/nodecg/nodecg-stubs.git"
+  },
+  "keywords": [
+    "nodecg",
+    "bundle",
+    "test",
+    "testing",
+    "stub"
+  ],
+  "author": "Alex Van Camp <email@alexvan.camp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodecg/nodecg-stubs/issues"
+  },
+  "homepage": "https://github.com/nodecg/nodecg-stubs#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "express": "^4.13.3",
+    "nodecg-bundle-parser": "^0.1.1"
+  }
+}
